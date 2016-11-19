@@ -1,0 +1,5 @@
+As a customer, i want to online payment, so that i can pay it through online
+able to select type of card from combo box
+require credit card number and cvc number
+able to verify credit card number and cvc number
+Display message when successful payment
