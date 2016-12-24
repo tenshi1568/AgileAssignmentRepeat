@@ -1,10 +1,10 @@
 Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Github ID,Integration,Owned By,Owned By
-3225477,admin module,administrator feature,,,,epic,,,21-Dec-16,,,,,https://www.pivotaltracker.com/epic/show/3225477,,,,
-3158365,Report Feature,report feature,,,,epic,,,19-Nov-16,,,,,https://www.pivotaltracker.com/epic/show/3158365,,,,
-3157969,Purchase Feature,purchase feature,,,,epic,,,19-Nov-16,,,,,https://www.pivotaltracker.com/epic/show/3157969,,,,
-3157961,Registration Feature,registration feature,,,,epic,,,19-Nov-16,,,,,https://www.pivotaltracker.com/epic/show/3157961,,,,
-3157953,Payment feature,payment,,,,epic,,,19-Nov-16,,,,"As a customer, i want to make payment so that i can pay the amount",https://www.pivotaltracker.com/epic/show/3157953,,,,
-134716087,Login,login feature,1,19-Dec-16,25-Dec-16,feature,1,started,21-Nov-16,,,rueyho,"As a customer , i wish to log in to the system , so that i can trace all the item previously i purchase .",https://www.pivotaltracker.com/story/show/134716087,,,Lo Shyhfong,
+3225477,admin module,administrator feature,,,,epic,,,14-Nov-16,,,,,https://www.pivotaltracker.com/epic/show/3225477,,,,
+3158365,Report Feature,report feature,,,,epic,,,14-Nov-16,,,,,https://www.pivotaltracker.com/epic/show/3158365,,,,
+3157969,Purchase Feature,purchase feature,,,,epic,,,14-Nov-16,,,,,https://www.pivotaltracker.com/epic/show/3157969,,,,
+3157961,Registration Feature,registration feature,,,,epic,,,14-Nov-16,,,,,https://www.pivotaltracker.com/epic/show/3157961,,,,
+3157953,Payment feature,payment,,,,epic,,,14-Nov-16,,,,"As a customer, i want to make payment so that i can pay the amount",https://www.pivotaltracker.com/epic/show/3157953,,,,
+134716087,Login,login feature,1,14-Nov-16,2-Dec-16,feature,1,started,21-Nov-16,,,rueyho,"As a customer , i wish to log in to the system , so that i can trace all the item previously i purchase .",https://www.pivotaltracker.com/story/show/134716087,,,Lo Shyhfong,
 134636311,Registration,registration feature,1,19-Dec-16,25-Dec-16,feature,1,started,19-Nov-16,,,CHIU LONG LIM,"As a customer, I want the system can do member registration so that I can subscribe for the information of updates and promotion.
 ",https://www.pivotaltracker.com/story/show/134636311,,,Lo Shyhfong,
 136499715,Check out bill,payment,1,19-Dec-16,25-Dec-16,feature,1,started,21-Dec-16,,,Yu Song Liew,"As a customer, I can check out myself bill so that I can make payment",https://www.pivotaltracker.com/story/show/136499715,,,Lo Shyhfong,
